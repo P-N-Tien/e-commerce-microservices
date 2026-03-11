@@ -6,5 +6,5 @@ architecture and best practices.
 # Technologies used
 
 - Java 21
-- Spring Boot 4.0.3
+- Spring Boot 3.4.3
 - Mongodb

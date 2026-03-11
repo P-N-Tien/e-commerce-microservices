@@ -1,2 +1,0 @@
-db.test.insertOne({name: "check"})
-use e-commerce-microservices
